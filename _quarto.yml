@@ -276,6 +276,8 @@ website:
                 contents:
                 - text: "Using VDS Starter Notebook"
                   href: notebooks/Advanced_cloud/using_vds_starter.ipynb
+                - text: "Opening an Icechunk Store"
+                  href: notebooks/Advanced_cloud/open_icechunk.ipynb
                 - text: "Gulf of Tehuantepec Upwelling Example"
                   href: notebooks/Advanced_cloud/GulfofTehuantepec_Ocean_Response.ipynb
               - text: "Virtualizarr Recipes"
