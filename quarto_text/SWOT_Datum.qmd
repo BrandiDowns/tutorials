@@ -11,7 +11,9 @@ Please first see the [SWOT Data User Handbook](https://archive.podaac.earthdata.
 
 As a summary, SWOT data is referenced to the WGS84 reference ellipsoid as a first step, and in a second step referenced to the EGM2008 geoid that references WGS84 for the vertical datum. To get a direct conversion with another dataset, it is easiest to transform all local data to the EGM2008 geoid. For the horizontal datum, SWOT uses ITRF 2014 in reference to the WGS84 reference ellipsoid. We recognize these conversions are different globally and depending on the data being used to compare, but we are collecting community examples of direct comparisons to share below:
 
-#### 1. Converting the SWOT Frame and Geoid in **Canada** - [Google Colab Section from Canadian Colleagues](https://colab.research.google.com/drive/1we0a24gBKbs-CFMVBfRIUm4SSW8RdwmA#scrollTo=cu09EYYRxxd4)
+#### 1. Converting the SWOT Frame and Geoid in **Canada** - [Google Colab Section from Canadian Colleagues](https://colab.research.google.com/drive/1goHI-4-iscumrM4F2jcmixuLTwEo_23X?usp=sharing)
+
+#### 2. Collection of hands-on SWOT data processing workshops and tutorials - [GitHub Repository of Workshops from Canadian Colleagues](https://github.com/sfoucher/SWOT-Canada/tree/main/Workshops)
 
 ### For More Help
 
