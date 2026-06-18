@@ -1,0 +1,11 @@
+---
+title: SWOT Hydrocron Time Series Tutorials
+subtitle: Example workflows using Hydrocron
+---
+
+## Tutorial Categories
+
+#### [Learn how to use Hydrocron in Python to access and plot SWOT L2 HR RiverSP time series data](Hydrocron_SWOT_timeseries_examples_basic.ipynb)
+
+#### [Advanced Hydrocron time series example using Python and Dask to parallelize the workflow](Hydrocron_SWOT_timeseries_examples.ipynb)
+
