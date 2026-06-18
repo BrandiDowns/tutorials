@@ -147,7 +147,7 @@ website:
                           - text: "Local"
                             href: notebooks/datasets/Localmachine_SWOT_Oceanography.ipynb
                       - text: "Hydrocron Time Series"
-                        href: notebooks/datasets/Hydrocron_SWOT_timeseries_examples.ipynb
+                        href: quarto_text/SWOT_HydrocronLandingPage.qmd
                       - text: "PIXC Area Aggregration"
                         href: notebooks/datasets/SWOT_PIXC_Area_localmachine.ipynb  
                       - text: "PIXC Phase Unwrap"
@@ -185,7 +185,7 @@ website:
                       - text: "Datum Conversion"
                         href: quarto_text/SWOT_Datum.qmd
                       - text: "River Time Series"
-                        href: notebooks/datasets/Hydrocron_SWOT_timeseries_examples.ipynb
+                        href: quarto_text/SWOT_HydrocronLandingPage.qmd
                       - text: "Lake Time Series"
                         href: notebooks/GIS/SWOTshp_CSVconversion.ipynb
                       - section: "NetCDF to Geotiff"
