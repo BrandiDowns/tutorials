@@ -23,11 +23,11 @@ Tutorials
 OPERA DSWx EGIS Services - Landing Page
 
 Services
-- OPERA L3 DSWX-HLS_V1 - [EGIS Services Endpoints List](../notebooks/GIS/SWOT_Rivers_EGIS_Services.md)
+- OPERA L3 DSWX-HLS_V1 - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
 
 Tutorials
-- OPERA L3 DSWX-HLS_V1 - [Access](../notebooks/GIS/SWOT_EGIS_access.ipynb)
-- OPERA L3 DSWX-HLS_V1 - [Access with Python](../notebooks/GIS/SWOT_EGIS_access_Python.ipynb)
+- OPERA L3 DSWX-HLS_V1 - [Access](../notebooks/GIS/OPERA_EGIS_access.ipynb)
+- OPERA L3 DSWX-HLS_V1 - [Access with Python](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
 
 ## **StoryMaps**
 
