@@ -18,8 +18,8 @@ SWOT HR Level 2 River Single-Pass Vector Data Product EGIS resources:
 
 #### **Tutorials**
 
-- SWOT L2 HR RiverSP - [Access](../notebooks/GIS/SWOT_EGIS_access.ipynb)
-- SWOT L2 HR RiverSP - [Access with Python](../notebooks/GIS/SWOT_EGIS_access_Python.ipynb)
+- SWOT L2 HR RiverSP - [EGIS Access Guide](../notebooks/GIS/SWOT_EGIS_access.ipynb)
+- SWOT L2 HR RiverSP - [EGIS Python Guide](../notebooks/GIS/SWOT_EGIS_access_Python.ipynb)
 
 ### **OPERA DSWx (Dynamic Surface Water Extent)**
 OPERA DSWx EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=780767a6cee24331baae8557c78d2e8a)
@@ -30,8 +30,8 @@ OPERA DSWx EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/
 
 #### **Tutorials**
 
-- OPERA L3 DSWX-HLS_V1 - [Access](../notebooks/GIS/OPERA_EGIS_access.ipynb)
-- OPERA L3 DSWX-HLS_V1 - [Access with Python](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
+- OPERA L3 DSWX-HLS_V1 - [EGIS Access Guide](../notebooks/GIS/OPERA_EGIS_access.ipynb)
+- OPERA L3 DSWX-HLS_V1 - [EGIS Python Guide](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
 
 ## **StoryMaps**
 
