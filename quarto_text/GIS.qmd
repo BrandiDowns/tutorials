@@ -7,27 +7,31 @@ subtitle: Tutorials for using NASA PO.DAAC data with Geographic Information Syst
 Select NASA Earthdata PO.DAAC collections are available through the [NASA Earthdata GIS (EGIS)](https://gis.earthdata.nasa.gov/portal/home/index.html), a resource for distributing cloud-native, GIS-ready NASA Earth Science data, services, and resources. These include ArcGIS and Open Geospatial Consortium (OGC)-compliant raster and feature geospatial services*. To access the full NASA Earth observation repository for data download, please visit [Earthdata Search](https://search.earthdata.nasa.gov/search).
 *Core functionality is available for EGIS web services; however, some unique behaviors persist. Please see our [Expected Behavior and Known Limitations](https://gis.earthdata.nasa.gov/portal/apps/storymaps/stories/67b9468490244f6998a19659eed1a1d9) for more details.
 
-## **SWOT**
+### **SWOT**
 SWOT EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=8f40e6f75ec343c982af8047c470ed5f#overview)
 
 SWOT HR Level 2 River Single-Pass Vector Data Product EGIS resources:
 
-Services
+#### **Services**
+
 - SWOT L2 HR RiverSP - [EGIS Services Endpoints List](../notebooks/GIS/SWOT_Rivers_EGIS_Services.md)
 
-Tutorials
+#### **Tutorials**
+
 - SWOT L2 HR RiverSP - [EGIS Access Guide](../notebooks/GIS/SWOT_EGIS_access.ipynb)
 - SWOT L2 HR RiverSP - [EGIS Python Guide](../notebooks/GIS/SWOT_EGIS_access_Python.ipynb)
 
-## **OPERA DSWx (Dynamic Surface Water Extent)**
-OPERA DSWx EGIS Services - Landing Page
+### **OPERA DSWx (Dynamic Surface Water Extent)**
+OPERA DSWx EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=780767a6cee24331baae8557c78d2e8a)
 
-Services
+#### **Services**
+
 - OPERA L3 DSWX-HLS_V1 - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
 
-Tutorials
-- OPERA L3 DSWX-HLS_V1 - [Access](../notebooks/GIS/OPERA_EGIS_access.ipynb)
-- OPERA L3 DSWX-HLS_V1 - [Access with Python](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
+#### **Tutorials**
+
+- OPERA L3 DSWX-HLS_V1 - [EGIS Access Guide](../notebooks/GIS/OPERA_EGIS_access.ipynb)
+- OPERA L3 DSWX-HLS_V1 - [EGIS Python Guide](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
 
 ## **StoryMaps**
 
