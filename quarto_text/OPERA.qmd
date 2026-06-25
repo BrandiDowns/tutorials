@@ -3,7 +3,7 @@ title: OPERA
 subtitle: Data Tutorials 
 ---
 
-## Background
+## **Background**
 
 The Observational Products for End-Users from Remote Sensing Analysis (OPERA) product suite is designed to collect data from satellite radar and optical instruments to generate three products:
 
@@ -13,9 +13,9 @@ The Observational Products for End-Users from Remote Sensing Analysis (OPERA) pr
 
 Only DSWx products will be distributed through PO.DAAC. More information can be found on [PO.DAAC's OPERA webpage](https://podaac.jpl.nasa.gov/OPERA).
 
-## Data Resources & Tutorials
+## **Data Resources & Tutorials**
 
-### Imagery Exploration
+### **Imagery Exploration**
 
 [Surface Water Extent Worldview StoryMap](https://worldview.earthdata.nasa.gov/?l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,OPERA_L3_Dynamic_Surface_Water_Extent-HLS_Provisional(disabled=5),Land_Water_Map&lg=true&tr=surface_water_extent&t=2023-09-16-T00%3A00%3A00Z)
 
@@ -23,7 +23,7 @@ Only DSWx products will be distributed through PO.DAAC. More information can be 
 
 [Video Tutorial: Exploring OPERA Surface Water Extent Data in NASA Worldview](https://www.youtube.com/watch?v=0JeF_okiKmU)
 
-### Search & Download
+### **Search & Download**
 
 **Via Graphical User Interface:**
 
@@ -37,20 +37,29 @@ podaac-data-subscriber -c OPERA_L3_DSWX-HLS_V1 -d ./data/OPERA_L3_DSWX-HLS_V1 --
 
 > See [how to Download/Subscribe](DataSubscriberDownloader.qmd) for more information on how to use the PO.DAAC subscriber/downloader.
 
-### Workflow tutorials: Access & Visualization
+### **Access & Visualization**
+
+#### **Cloud**
 
 [AWS Cloud: OPERA Dynamic Surface Water Extent (DSWx) Data](../notebooks/datasets/OPERA_GIS_Cloud.ipynb) - How to search for, access, visualize, and mosaic OPERA data over lake Powell while working in the cloud.
 
+#### **Local**
+
 [Local Machine: OPERA Dynamic Surface Water Extent (DSWx) Data](../notebooks/datasets/OPERA_GIS_Notebook.ipynb) - How to search for, download, visualize, and mosaic OPERA data over lake Powell while working on a local machine.
 
-### GIS workflows
+#### **GIS**
+
+#### **NASA Earthdata GIS (EGIS)**
+- OPERA L3 DSWX-HLS_V1 EGIS - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
+- OPERA L3 DSWX-HLS_V1 EGIS - [Access](../notebooks/GIS/OPERA_EGIS_access.ipynb)
+- OPERA L3 DSWX-HLS_V1 EGIS - [Access with Python](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
 
 [StoryMap: Exploring Water Surface Extent with Satellite Data](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff?item=1)
 
 [OPERA ArcGIS Toolbox](https://github.com/OPERA-Cal-Val/OPERA-ArcGIS-Toolbox/tree/main) - GitHub repository with three geoprocessing tools: OPERA Granule Download, OPERA Granule Filter, and OPERA Raster Mosaic
 
-## Additional Resources
+#### Other Resources
 
-[OPERA Applications GitHub Notebooks](https://github.com/OPERA-Cal-Val/OPERA_Applications/tree/main) - check out the [leafmap examples](https://github.com/OPERA-Cal-Val/OPERA_Applications/tree/main/leafmap)!
+[OPERA Project GitHub Notebooks](https://github.com/OPERA-Cal-Val/OPERA_Applications/tree/main) - check out the [leafmap examples](https://github.com/OPERA-Cal-Val/OPERA_Applications/tree/main/leafmap)!
 
 [NASA Mission Page](https://www.jpl.nasa.gov/go/opera)

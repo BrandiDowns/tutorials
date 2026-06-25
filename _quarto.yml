@@ -86,12 +86,20 @@ website:
                     href: notebooks/datasets/MUR_SST_Washington_Comparison.ipynb
               - section: quarto_text/OPERA.qmd
                 contents:
-                  - section: "Visualization and Mosaicking"
+                  - section: "Imagery Exploration"
+                    href: quarto_text/OPERA.html#imagery-exploration
+                  - section: "Search & Download"
+                    href: quarto_text/OPERA.html#search-and-download
+                  - section: "Access & Visualization"
                     contents:
                       - text: "Cloud"
                         href: notebooks/datasets/OPERA_GIS_Cloud.ipynb
                       - text: "Local"
                         href: notebooks/datasets/OPERA_GIS_Notebook.ipynb
+                      - text: "GIS"
+                        href: quarto_text/OPERA.html#gis
+                      - text: "Other Resources"
+                        href: quarto_text/OPERA.html#other-resources
               - section:  quarto_text/Sentinel6MF.qmd
                 contents: 
                   - text: "Access in Cloud"
@@ -223,8 +231,6 @@ website:
                 href: quarto_text/GIS.html#storymaps
               - text: "Other GIS Tutorials"
                 href: quarto_text/GIS.html#other-gis-tutorials
-              - text: "GIS Jupyter Notebook Tutorials"
-                href: quarto_text/GIS.html#gis-jupyter-notebook-tutorials
           - section: quarto_text/CloudvsLocalWorkflows.qmd
             contents:
               - section: "Estuary Example"
