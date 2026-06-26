@@ -49,7 +49,8 @@ podaac-data-subscriber -c OPERA_L3_DSWX-HLS_V1 -d ./data/OPERA_L3_DSWX-HLS_V1 --
 
 #### **GIS**
 
-**NASA Earthdata GIS (EGIS)**
+[**NASA Earthdata GIS (EGIS)**](https://gis.earthdata.nasa.gov/)
+
 - OPERA L3 DSWX-HLS_V1 EGIS - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
 - OPERA L3 DSWX-HLS_V1 EGIS - [Access](../notebooks/GIS/OPERA_EGIS_access.ipynb)
 - OPERA L3 DSWX-HLS_V1 EGIS - [Access with Python](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
@@ -64,4 +65,8 @@ podaac-data-subscriber -c OPERA_L3_DSWX-HLS_V1 -d ./data/OPERA_L3_DSWX-HLS_V1 --
 
 [NASA Mission Page](https://www.jpl.nasa.gov/go/opera)
 
-[NASA ARSET - Part 2: Overview of Monitoring Floods using OPERA Surface Water Extent Based on Optical and SAR Observations](https://www.earthdata.nasa.gov/learn/trainings/monitoring-predicting-floods-using-earth-observations-planning-preparedness). For example, there is helpful guidance on _Which product is more appropriate for my application?_ at minute 33 of the presentation. You can also review the [slides](https://www.earthdata.nasa.gov/s3fs-public/2026-05/ARSET-Floods2026-part2-slides_1.pdf).
+[NASA ARSET - Part 2: Overview of Monitoring Floods using OPERA Surface Water Extent Based on Optical and SAR Observations](https://www.earthdata.nasa.gov/learn/trainings/monitoring-predicting-floods-using-earth-observations-planning-preparedness). You can also review the [slides](https://www.earthdata.nasa.gov/s3fs-public/2026-05/ARSET-Floods2026-part2-slides_1.pdf). For example, there is:
+
+- Guidance on _Which product is more appropriate for my application?_ at minute 33 of the presentation. 
+- Discussion of SAR (S1) and optical (L8/L9) in Worldview
+- How combining SAR and optical OPERA DSWx products can help, depending on your use case.
