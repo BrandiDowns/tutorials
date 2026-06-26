@@ -10,25 +10,27 @@ Select NASA Earthdata PO.DAAC collections are available through the [NASA Earthd
 ### **SWOT**
 **SWOT EGIS Services** - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=8f40e6f75ec343c982af8047c470ed5f#overview)
 
-**_SWOT HR Level 2 River Single-Pass Vector_ Data Product** EGIS resources:
+**SWOT HR Level 2 River Single-Pass Vector** Data Product EGIS Resources:
 
-**Services**
+Services
+
 - SWOT L2 HR RiverSP - [EGIS Services Endpoints List](../notebooks/GIS/SWOT_Rivers_EGIS_Services.md)
 
-**Tutorials**
+Tutorials
+
 - SWOT L2 HR RiverSP - [EGIS Access Guide](../notebooks/GIS/SWOT_EGIS_access.ipynb)
 - SWOT L2 HR RiverSP - [EGIS Python Guide](../notebooks/GIS/SWOT_EGIS_access_Python.ipynb)
 
 ### **OPERA DSWx (Dynamic Surface Water Extent)**
-OPERA DSWx EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=780767a6cee24331baae8557c78d2e8a)
+**OPERA DSWx EGIS Services** - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=780767a6cee24331baae8557c78d2e8a)
 
-**_OPERA DSWx-HLS_ Data Products (B01_WTR, B03_CONF)** EGIS resources:
+**OPERA DSWx-HLS (B01_WTR, B03_CONF)** Data Products EGIS Resources:
 
-**Services**
+Services
 
 - OPERA L3 DSWX-HLS_V1 - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
 
-**Tutorials**
+Tutorials
 
 - OPERA L3 DSWX-HLS_V1 - [EGIS Access Guide](../notebooks/GIS/OPERA_EGIS_access.ipynb)
 - OPERA L3 DSWX-HLS_V1 - [EGIS Python Guide](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
