@@ -12,11 +12,11 @@ SWOT EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/g
 
 SWOT HR Level 2 River Single-Pass Vector Data Product EGIS resources:
 
-#### **Services**
+**Services**
 
 - SWOT L2 HR RiverSP - [EGIS Services Endpoints List](../notebooks/GIS/SWOT_Rivers_EGIS_Services.md)
 
-#### **Tutorials**
+**Tutorials**
 
 - SWOT L2 HR RiverSP - [EGIS Access Guide](../notebooks/GIS/SWOT_EGIS_access.ipynb)
 - SWOT L2 HR RiverSP - [EGIS Python Guide](../notebooks/GIS/SWOT_EGIS_access_Python.ipynb)
@@ -24,18 +24,18 @@ SWOT HR Level 2 River Single-Pass Vector Data Product EGIS resources:
 ### **OPERA DSWx (Dynamic Surface Water Extent)**
 OPERA DSWx EGIS Services - [Landing Page](https://gis.earthdata.nasa.gov/portal/home/group.html?id=780767a6cee24331baae8557c78d2e8a)
 
-#### **Services**
+**Services**
 
 - OPERA L3 DSWX-HLS_V1 - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
 
-#### **Tutorials**
+**Tutorials**
 
 - OPERA L3 DSWX-HLS_V1 - [EGIS Access Guide](../notebooks/GIS/OPERA_EGIS_access.ipynb)
 - OPERA L3 DSWX-HLS_V1 - [EGIS Python Guide](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
 
 ## **StoryMaps**
 
-#### [**PO.DAAC GIS StoryMap Collection Page**](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff)
+[**PO.DAAC GIS StoryMap Collection Page**](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff)
 
 - [Exploring Water Surface Extent with Satellite Data](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff?item=1)
 - [SWOT: Through a GIS Lens](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff?item=2)
