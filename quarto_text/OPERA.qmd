@@ -49,17 +49,19 @@ podaac-data-subscriber -c OPERA_L3_DSWX-HLS_V1 -d ./data/OPERA_L3_DSWX-HLS_V1 --
 
 #### **GIS**
 
-#### **NASA Earthdata GIS (EGIS)**
+**NASA Earthdata GIS (EGIS)**
 - OPERA L3 DSWX-HLS_V1 EGIS - [EGIS Services Endpoints List](../notebooks/GIS/OPERA_DSWx-HLS_EGIS_Services.md)
 - OPERA L3 DSWX-HLS_V1 EGIS - [Access](../notebooks/GIS/OPERA_EGIS_access.ipynb)
 - OPERA L3 DSWX-HLS_V1 EGIS - [Access with Python](../notebooks/GIS/OPERA_EGIS_access_Python.ipynb)
 
-[StoryMap: Exploring Water Surface Extent with Satellite Data](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff?item=1)
+[**StoryMap**: Exploring Water Surface Extent with Satellite Data](https://storymaps.arcgis.com/collections/413c17cba4b44be18e445c1caaf03fff?item=1)
 
-[OPERA ArcGIS Toolbox](https://github.com/OPERA-Cal-Val/OPERA-ArcGIS-Toolbox/tree/main) - GitHub repository with three geoprocessing tools: OPERA Granule Download, OPERA Granule Filter, and OPERA Raster Mosaic
+[**OPERA ArcGIS Toolbox**](https://github.com/OPERA-Cal-Val/OPERA-ArcGIS-Toolbox/tree/main) - GitHub repository with three geoprocessing tools: OPERA Granule Download, OPERA Granule Filter, and OPERA Raster Mosaic
 
 #### Other Resources
 
 [OPERA Project GitHub Notebooks](https://github.com/OPERA-Cal-Val/OPERA_Applications/tree/main) - check out the [leafmap examples](https://github.com/OPERA-Cal-Val/OPERA_Applications/tree/main/leafmap)!
 
 [NASA Mission Page](https://www.jpl.nasa.gov/go/opera)
+
+[NASA ARSET - Part 2: Overview of Monitoring Floods using OPERA Surface Water Extent Based on Optical and SAR Observations](https://www.earthdata.nasa.gov/learn/trainings/monitoring-predicting-floods-using-earth-observations-planning-preparedness). For example, there is helpful guidance on _Which product is more appropriate for my application?_ at minute 33 of the presentation. You can also review the [slides](https://www.earthdata.nasa.gov/s3fs-public/2026-05/ARSET-Floods2026-part2-slides_1.pdf).
